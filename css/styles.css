@@ -1,0 +1,96 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Josefin Sans';
+}
+  .carousel-inner img
+  {
+    width: 100%;
+    height: 80vh;
+  }
+.button
+{
+
+  height: 30px;
+  width: 200px;
+  border-radius: 20px;
+  background-color: purple;
+  color: white;
+
+}
+.button:hover
+{
+
+  color:black;
+  background-color: yellow;
+}
+.partition
+{
+  padding-top: 50px;
+  height: 100px;
+  width: 200px;
+}
+.spandan
+{
+  color: #64C9CF;
+  font-size: 40px;
+  font-style: normal;
+  font-family: cursive;
+  font-weight: bold;
+  cellspacing:5px;
+}
+.money_transfer
+{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #BCFFB9;
+  color: black;
+
+}
+.title
+{
+  height: 100px;
+  color: #001E6C;
+  font-size: 40px;
+  font-weight: bold;
+  padding-top: 15px;
+}
+.nav_item
+{
+  color: black;
+  font-size: 20px;
+
+}
+.transfermoney
+{
+  background-color:#F5E8C7;
+  color: #512D6D;
+  font-size: 27px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: fantasy;
+}
+.nav-button
+{
+  height: 50px;
+  width:130px;
+  background-color: black;
+  color:#6F4C5B;
+  font-size: 20px;
+  border-radius: 10px
+
+}
+.bold
+{
+  font-size: 50px;
+  font-weight: 300;
+
+}
+.table
+{
+  border: 10px;
+  border-color: black;
+
+}
